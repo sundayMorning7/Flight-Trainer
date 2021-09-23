@@ -1,0 +1,27 @@
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe.config
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\bin\Debug\FlyTraining.pdb
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csproj.CoreCompileInputs.cache
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\obj\Debug\FlyTraining.exe
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\obj\Debug\FlyTraining.pdb
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csprojResolveAssemblyReference.cache
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe.config
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\bin\Debug\FlyTraining.pdb
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csprojResolveAssemblyReference.cache
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\obj\Debug\FlyTraining.exe
+C:\Users\Shul_av38\Downloads\FlyTraining\FlyTraining\obj\Debug\FlyTraining.pdb
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe.config
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\bin\Debug\FlyTraining.pdb
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csprojResolveAssemblyReference.cache
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csproj.CoreCompileInputs.cache
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\obj\Debug\FlyTraining.exe
+C:\Users\mmari\Downloads\FlyTraining (1)\FlyTraining\FlyTraining\obj\Debug\FlyTraining.pdb
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe.config
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\bin\Debug\FlyTraining.exe
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\bin\Debug\FlyTraining.pdb
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csproj.AssemblyReference.cache
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\obj\Debug\FlyTraining.csproj.CoreCompileInputs.cache
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\obj\Debug\FlyTraining.exe
+C:\Users\Vla\_Programming\old_dz\New folder\c#\FlyTraining\FlyTraining\obj\Debug\FlyTraining.pdb
